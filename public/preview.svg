@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0%" stop-color="#6dd5fa"/>
+      <stop offset="100%" stop-color="#2980b9"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#g)"/>
+  <g font-family="Arial, Helvetica, sans-serif" fill="#fff">
+    <text x="60" y="160" font-size="56" font-weight="700">Band Name Generator</text>
+    <text x="60" y="230" font-size="24" opacity="0.95">A small Express middleware example for collecting form data</text>
+  </g>
+  <g transform="translate(60,300)" fill="#fff" opacity="0.95">
+    <rect x="0" y="0" width="420" height="52" rx="6" fill="#ffffff22" stroke="#ffffff33"/>
+    <text x="18" y="34" font-family="Arial, Helvetica, sans-serif" font-size="20">Street Name:</text>
+  </g>
+  <g transform="translate(60,370)" fill="#fff" opacity="0.95">
+    <rect x="0" y="0" width="420" height="52" rx="6" fill="#ffffff22" stroke="#ffffff33"/>
+    <text x="18" y="34" font-family="Arial, Helvetica, sans-serif" font-size="20">Pet Name:</text>
+  </g>
+  <g transform="translate(540,300)">
+    <rect x="0" y="0" width="540" height="220" rx="12" fill="#ffffff10" stroke="#ffffff22"/>
+    <text x="24" y="46" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#fff">Example Output</text>
+    <text x="24" y="96" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#fff">"Sunny Pet"</text>
+  </g>
+  <g transform="translate(60,540)" fill="#ffffffcc">
+    <text x="0" y="0" font-family="Arial, Helvetica, sans-serif" font-size="14">Preview generated for README</text>
+  </g>
+</svg>
