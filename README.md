@@ -31,7 +31,7 @@ npm install
 
 **Author:**
 
-- [WailHassan](https://github.com/wailhassan) (HybridLink)
+- [WailHassan](https://github.com/wailhassan)
 
 **License:**
 
